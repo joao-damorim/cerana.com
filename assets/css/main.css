@@ -2312,6 +2312,7 @@
 				-ms-transition: -ms-transform 0.5s ease;
 				transition: transform 0.5s ease;
 				padding-bottom: 1px;
+				background-color: #FFCC66;
 			}
 
 			#titleBar {
