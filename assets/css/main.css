@@ -2440,6 +2440,7 @@
 				-webkit-transform: translateX(275px);
 				-ms-transform: translateX(275px);
 				transform: translateX(275px);
+				background-color: #FFCC66;
 			}
 
 			body.navPanel-visible #titleBar {
