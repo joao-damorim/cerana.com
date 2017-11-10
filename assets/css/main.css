@@ -1683,7 +1683,7 @@
 
 	#header-wrapper {
 		position: relative;
-		background: #ffffff;
+		background: #41afdc;
 		border-bottom: solid 1px #ccc;
 	}
 
@@ -2312,7 +2312,6 @@
 				-ms-transition: -ms-transform 0.5s ease;
 				transition: transform 0.5s ease;
 				padding-bottom: 1px;
-				background-color: #FFCC66;
 			}
 
 			#titleBar {
@@ -2440,7 +2439,6 @@
 				-webkit-transform: translateX(275px);
 				-ms-transform: translateX(275px);
 				transform: translateX(275px);
-				background-color: #FFCC66;
 			}
 
 			body.navPanel-visible #titleBar {
