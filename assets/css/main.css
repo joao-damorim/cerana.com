@@ -14,7 +14,7 @@
 		padding: 0;
 		border: 0;
 		font-size: 100%;
-		font: inherit;
+		font: arial;
 		vertical-align: baseline;
 	}
 
@@ -1131,7 +1131,7 @@
 	}
 
 	a {
-		color: #41afdc;
+		color: #191970;
 		text-decoration: underline;
 	}
 
@@ -1292,9 +1292,10 @@
 /* Box */
 
 	.box {
-		/*
-		background: #ffffff;
-		border-bottom: solid 1px #ccc; */ 
+		
+		background: #F0F8FF;
+		border-bottom: solid 1px #ccc;
+		border-right: solid 1px #ccc;
 	}
 
 		.box .image.featured {
@@ -1786,7 +1787,7 @@
 			}
 
 			h2 {
-				font-size: 1.5em;
+				font-size: 2.5em;
 			}
 
 			h3 {
